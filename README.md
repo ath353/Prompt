@@ -1,1 +1,1 @@
-# Prompt
+- Repository này là tổng hợp những kiến thức mà tôi học được về Prompt AI và những kiến thức liên quan
