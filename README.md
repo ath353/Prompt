@@ -1,1 +1,1 @@
-- Repository này là tổng hợp những kiến thức mà tôi học được về Prompt AI và những kiến thức liên quan
+- Repository này là tổng hợp những kiến thức về Prompt AI và những kiến thức liên quan khác như AI, ML, LLM, DL, Neural network
