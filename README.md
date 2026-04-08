@@ -1,1 +1,3 @@
-- Repository này là tổng hợp những kiến thức về Prompt AI và những kiến thức liên quan khác như AI, ML, LLM, DL, Neural network
+- Repository này là tổng hợp những kiến thức về Prompt AI và những kiến thức liên quan khác như AI, ML, LLM, DL, Neural network,...
+- Cá nhân tôi thêm vào dự án này những gì mình được học và được biết về: AI - Trí tuệ nhân tạo | ML - Học máy | Neural-network - Mạng nơron | LLM - Mô hình ngôn ngữ lớn | Cách LLM hoạt động | Token trong LLM | Prompt Engineering và các kỹ thuật viết prompt chi tiết | Bộ prompt mẫu dành cho CNTT
+- Còn lại là những nội dung tham khảo từ AI
